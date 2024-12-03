@@ -4,6 +4,8 @@
 
 [打开，杏耀平台最新网址](https://www.dianzijobs.com/#/register/s1/vuggju)
 
+QQ: 1678717947
+
 
 ## 凤凰平台：游戏开发者的得力助手
 
