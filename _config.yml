@@ -34,15 +34,15 @@ tucaoUrl: https://qfafa.com
 # 菜单
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
+#  - title: 搜索
+#    url: /pages/search.html
+#      - title: 留言
+#   url: /pages/chat.html
 menu:
   - title: 首页
     url: /
-  - title: 搜索
-    url: /pages/search.html
   - title: 友链
     url: /pages/links.html
-  - title: 留言
-    url: /pages/chat.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
@@ -59,9 +59,7 @@ extCount: true
 
 # 友情链接
 links:
-  - title: Q发发ACG资源
-    url: https://qfafa.com
+  - title: 杏耀平台注册地址
+    url: https://www.dianzijobs.com/s1/vuggju
   - title: 好梯子
     url: https://htizi.cc
-  - title: 冷狐资源合集
-    url: https://leng-hu.github.io
