@@ -18,8 +18,6 @@
 
  .page {position: relative;}
  #box {background-color: #fff;padding: 20px;border: 1px solid #ccc;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}
- #box a{color:#0267FF;}
- #box a:hover{text-decoration: underline;}
  /* 遮罩层样式 */
  .overlay {position: fixed;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(255, 255, 255, 1); /* 半透明黑色背景 */z-index: 999; /* 确保遮罩层在所有内容之上 */display: flex;justify-content: center;align-items: center;}
  /* 只显示 id=box 的内容 */
